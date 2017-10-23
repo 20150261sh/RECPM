@@ -1,0 +1,7 @@
+#Sun Oct 22 01:31:09 KST 2017
+base.0=/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e2b6f0b51be7e8ee139ef0417796503471b0011f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa2ea97934a8907d926f93f4c098af5553c23a82/classes.dex
+base.1=/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa2ea97934a8907d926f93f4c098af5553c23a82
+file.0=/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e2b6f0b51be7e8ee139ef0417796503471b0011f/classes.dex

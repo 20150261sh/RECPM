@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RECPM</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RECPM</string>
+    <string name="Camera">Camera</string>
+    <string name="File">File</string>
+    <string name="Manual">Manual</string>
+    <string name="title_activity_results">Results</string>
+    <string name="hello">hello</string>
+</resources>

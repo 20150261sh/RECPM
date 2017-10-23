@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/res/merged/debug/layout/activity_results.xml",
+        "source": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/src/main/res/layout/activity_results.xml"
+    },
+    {
+        "merged": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/res/merged/debug/layout/ffrag_cal.xml",
+        "source": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/src/main/res/layout/ffrag_cal.xml"
+    },
+    {
+        "merged": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/res/merged/debug/layout/fflag_income.xml",
+        "source": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/src/main/res/layout/fflag_income.xml"
+    },
+    {
+        "merged": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/res/merged/debug/layout/fflag_spending.xml",
+        "source": "/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/src/main/res/layout/fflag_spending.xml"
+    }
+]

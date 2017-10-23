@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa2ea97934a8907d926f93f4c098af5553c23a82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="21129c54960f2deb79c3d751f47045674a9cbe6e">
+        <dex dex="/Users/songhee/Desktop/Songhee/2017_2/dev/Android1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e2b6f0b51be7e8ee139ef0417796503471b0011f/classes.dex" />
+    </item>
+
+</items>
